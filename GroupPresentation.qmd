@@ -5,6 +5,10 @@ author: "Elizabeth Arthur & Emily Rogers"
 format: 
   revealjs:
     theme: sky
+    slide-number: false
+    width: 1600
+    height: 900
+    chalkboard: false
 ---
 
 # **Background**
